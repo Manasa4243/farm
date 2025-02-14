@@ -1,0 +1,10 @@
+Company: CODE IT SOLUTIONS 
+NAME:MANASA.J 
+INTERN ID:CT6WDPR 
+DOMAIN:DEVOPS BATCH DURATION:December 30th, 2024 to February 15th, 2025
+
+DESCRIPTION
+USING DOCKER CONTAINER I HAVE RUN A WEBSITE TO-DO-LIST
+
+OUTPUT:
+https://manasaj.hashnode.dev/day-18-task-docker-for-devops-engineers
